@@ -11,6 +11,7 @@ Material that you would need to assemble the Big-Spool Holder
 * 8x Heat-inserts       (std Voron BOM)
 * 4x M5 washer ~12mm OD
 * 4x M5 lock-nut
+* 6x Adhesive rubber (~3mm thick) little sqaures to be used as slip-free foots 
 
 Assembling the holder is straingh forward... so no instructions are given
 
