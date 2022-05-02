@@ -1,6 +1,7 @@
 # Instructions and BOM #
 
 * Print the parts with Voron spec settings
+(Mind the objects ARE NOT in print orientation so pls adjust accordingly)
 
 Material that you would need to assemble the Big-Spool Holder
 
