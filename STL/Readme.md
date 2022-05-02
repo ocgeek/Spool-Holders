@@ -15,4 +15,6 @@ Material that you would need to assemble the Big-Spool Holder
 
 Assembling the holder is straingh forward... so no instructions are given
 
+![screenshot_158](https://user-images.githubusercontent.com/76037248/166255516-7d21675d-7d88-4c24-8b23-d0f27a902fd2.jpg)
+
 Enjoy
