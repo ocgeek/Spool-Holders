@@ -1,21 +1,31 @@
 # Instructions and BOM #
 
+## Print settings
 * Print the parts with Voron spec settings
-
 (Mind the objects ARE NOT in print orientation so pls adjust accordingly)
 
-Material that you would need to assemble the Big-Spool Holder
-
+## Material that you would need to assemble the 2.5Kg Big-Spool Holder
 * 8x F625-2RS bearings  (std Voron BOM)  
-* 4x M5x25mm Flanged Button Head
-* 8x M5 1mm thick shim washer
+* 4x M5x25mm Flanged Button Head Bolts
+* 8x M5x10 1mm thick shim washer
+* 4x M5x20 washer (or similar)
+* 4x M5 lock-nut
 * 8x M3x8mm SHCS Bolt   (std Voron BOM)
 * 8x Heat-inserts       (std Voron BOM)
-* 4x M5 washer ~12mm OD
-* 4x M5 lock-nut
-* 6x Adhesive rubber (~3mm thick) little sqaures to be used as slip-free foots 
+* 4x or 6x Adhesive rubber (~3mm thick) little sqaures to be used as slip-free foots (Neoprene works very well) 
 
-Assembling the holder is straingh forward... so no instructions are given
+## Material that you would need to assemble the 1Kg removable arm Spool Holder
+* 4x 695-2RS bearings  (std Voron BOM)  
+* 2x M5x25mm shaft
+* 3x M3x8mm SHCS Bolt   (std Voron BOM)
+* 6x Heat-inserts       (std Voron BOM)
+* 3x M3x8 SHCS Bolt     (std Voron BOM)
+* 1x M3x20 SHCS
+* 2x M3x25 SHCS
+* 2x M3x16 SHCS
+* 2x T-Nuts
+
+Assembling the holder(s) is straingh forward... so no instructions are given
 
 ![screenshot_158](https://user-images.githubusercontent.com/76037248/166255516-7d21675d-7d88-4c24-8b23-d0f27a902fd2.jpg)
 
