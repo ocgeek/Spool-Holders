@@ -27,7 +27,7 @@
 
 Assembling the holder(s) is straingh forward... so no instructions are given
 
-![image](https://user-images.githubusercontent.com/76037248/166680963-91d27da5-5c60-4441-af26-911dccc9a51e.png)
+![image](https://user-images.githubusercontent.com/76037248/166681257-830705b5-f56c-4e89-95a4-2c167486aa30.png)
 
 ![image](https://user-images.githubusercontent.com/76037248/166678871-38143e3f-4faa-4e87-83ac-a5ef97068a50.png)
 
