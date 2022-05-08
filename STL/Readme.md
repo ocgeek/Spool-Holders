@@ -31,6 +31,8 @@ Assembling the holder(s) is straingh forward... so no instructions are given
 
 ![image](https://user-images.githubusercontent.com/76037248/166678871-38143e3f-4faa-4e87-83ac-a5ef97068a50.png)
 
+![image](https://user-images.githubusercontent.com/76037248/167285796-1e4ec3b1-10a5-450b-a859-cec34bd1d9f2.png)
+
 ![image](https://user-images.githubusercontent.com/76037248/166742382-b1fbc666-1654-498b-be33-670b36f9959f.png)
 
 Enjoy
