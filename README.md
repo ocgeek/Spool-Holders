@@ -3,6 +3,7 @@
 This repo contains files for printing and building spool holders which are planned to sit on the top of the printer
 * 2.5Kg spool holder
 * 1Kg spool holder
+* A sponge fit filament in line dust filter
 
 If you are thinking about building a big spool holder for your printer you are in the right place
 
