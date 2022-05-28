@@ -23,6 +23,10 @@ has relocatable bearing carriages :-)
 
 ![image](https://user-images.githubusercontent.com/76037248/170837926-bceb8b55-dbd9-4351-b952-c4d85655204e.png)
 
+It fits a 300 build plate by an hair
+
+![image](https://user-images.githubusercontent.com/76037248/170837984-49be2abb-898b-4fb5-bd14-5a12cdaf4b00.png)
+
 The 2.5KG Spool Holder has been succesfully tested with :
 * eSun 2.5Kg Spools
 * 3DJake 2.3Kg Spools
